@@ -1,7 +1,7 @@
 ### 👋 Hello, I'm Amir!
 
 ### 🌟 About Me
-🎓 4th year AI & Data Science student at Higher School of Computer and Digital Sciences and Technologies (ESTIN), Bejaya. 
+🎓 4th year AI & Data Science student at Higher School of Computer and Digital Sciences and Technologies (ESTIN), Bejaya. <br/>
 💻 Passionate about Machine Learning, Full-Stack Web Development, and UI/UX Design.<br/>
 🛠️ Skilled in creating e-commerce projects, designing user-friendly interfaces, and building dynamic websites.<br/>
 
